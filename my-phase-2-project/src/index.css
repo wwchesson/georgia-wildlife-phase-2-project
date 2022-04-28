@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.search input {
+  padding: 15px;
+  margin: 0px auto;
+  height: 20px;
+  width: 300px;
+  display: flex;
+  border-radius: 50% 20% / 10% 40%;
+  text-align: center;
+}
+
+.threatened {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.spanish-content {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.animal-filter {
+  padding-bottom: 20px;
+  padding-top: 5px;
+  height: 65px;
+  background-color: #8e86bf;
+  width: auto;
+  text-align: center;
+}
+
+.select {
+  height: 25px;
+  width: 200px;
+  margin: 5px;
+  border-radius: 20px;
+  text-align: center;
+  font-family: Cantarell;
+  font-size: medium;
+}
+
+.input-text {
+  padding: 15px;
+  margin: 0px auto;
+  height: 20px;
+  width: 300px;
+  display: flex;
+  border-radius: 50% 20% / 10% 40%;
+  text-align: center;
+}
+
+.animal-form {
+  background-color: #f7d474;
+  padding: 20px;
+  margin: 0px auto;
+  text-align: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.submit-form {
+  width: 100vw;
+}
+
+.deer {
+  height: 400px;
+  padding-bottom: 20px;
+}
+
+.wildlife {
+  color: #663600;
+  font-size: 3em;
+}
+
+.intro{
+  font-size: 1.7em;
+  color: #663600;
+}
+
+.btn {
+  background-color: #8a040d;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  border-radius: 20px;
+  font-size: medium;
+}
+
+.add-animal {
+  font-size: 2.5em;
+  color: #663600;
+}
+
+.threat {
+  font-size: 1.25 em;
+  color: #663600;
+}
+
+.yes {
+  font-size: x-large;
+  color: #663600;
+}
+
+.form-check-input {
+  margin: 10px;
+  height: 15px;
+  width: 15px;
+}
+
+.animal-container {
+  background-color: #f7cbc8;
+}
